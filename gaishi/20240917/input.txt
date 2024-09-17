@@ -1,0 +1,18 @@
+09:00:00 stock hamberger 10 300
+09:01:00 stock sandwich 10 400
+09:10:00 visit 1 1 normal
+09:20:00 order 1 hamberger 1
+09:30:00 account 1
+10:10:00 visit 2 5 normal
+10:20:00 order 2 hamberger 5
+10:21:00 order 2 sandwich 5
+10:30:00 visit 3 3 tabehoudai
+10:40:00 order 3 hamberger 5
+10:41:00 order 3 sandwich 5
+10:50:00 account 2
+11:00:00 account 3
+19:00:00 stock hamberger 10 300
+22:10:00 visit 4 4 normal
+22:20:00 order 4 hamberger 8
+22:21:00 order 4 sandwich 3
+22:30:00 account 4
